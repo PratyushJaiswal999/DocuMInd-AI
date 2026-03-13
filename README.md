@@ -13,6 +13,8 @@
 
 DocuMind AI is a fast, robust, and visually polished Retrieval-Augmented Generation (RAG) application. It allows users to upload PDF documents and instantly chat with them, extracting facts, summaries, and answering specific questions based entirely on the document's context.
 
+Website URL :- https://docu-mind-ai-by-pratyush.streamlit.app/
+
 ## ✨ Features
 
 - **Blazing Fast Inference:** Powered by [Groq](https://groq.com/) and specifically optimized for the `llama-3.1-8b-instant` model.
