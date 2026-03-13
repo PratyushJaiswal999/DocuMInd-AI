@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.env
+
+# ChromaDB Storage
+db_storage/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Default data (optional, depends on if you want raw PDFs in git)
+# data/
